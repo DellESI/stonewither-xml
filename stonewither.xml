@@ -16071,7 +16071,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_NAME</id>
-		<default>STONEWITHER</default>
+		<default>WITHERSPOON</default>
 	</attribute>
 	<attribute>
 		<id>SYSTEM_RESCLK_STEP_DELAY</id>
